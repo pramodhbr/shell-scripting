@@ -1,0 +1,125 @@
+Beginner Bash Script Problems (20)
+
+Print “Hello World” to the terminal.
+
+Print your name using a variable.
+
+Take user input and greet them by name.
+
+Check if a number is positive, negative, or zero.
+
+Check if a number is even or odd.
+
+Find the largest of 3 numbers entered by the user.
+
+Print numbers from 1 to 10 using a loop.
+
+Print the multiplication table of a number given by the user.
+
+Sum of all numbers from 1 to n (user input).
+
+Check if a file exists or not.
+
+Check if a given string is empty or not.
+
+Count the number of words in a file.
+
+Count the number of lines in a file.
+
+Print current date and time.
+
+Display only the first 10 lines of /etc/passwd.
+
+Display only the last 10 lines of /etc/passwd.
+
+List all files in the current directory.
+
+Display logged-in users.
+
+Print the hostname of the system.
+
+Print the IP address of the system.
+
+🟡 Intermediate Bash Script Problems (20)
+
+Find factorial of a number.
+
+Print Fibonacci series up to n terms.
+
+Reverse a string provided by the user.
+
+Find if a given year is a leap year.
+
+Display the size of a file in bytes, KB, and MB.
+
+Sort a file in ascending and descending order.
+
+Find the 10 largest files in /var/log.
+
+Print the top 5 processes consuming the most CPU.
+
+Print the top 5 processes consuming the most memory.
+
+Replace all occurrences of a word in a file with another word.
+
+Print all usernames from /etc/passwd.
+
+Extract only the default shell from /etc/passwd.
+
+Write a script to take backup of /etc folder with a timestamp.
+
+Monitor free memory and alert if below 500MB.
+
+Monitor disk usage and alert if usage exceeds 80%.
+
+Display only .sh files from a directory.
+
+Count the number of .log files in /var/log.
+
+Print only failed login attempts from /var/log/auth.log.
+
+Compare two files line by line and print differences.
+
+Write a script to send a simple email using mail command.
+
+🔴 Advanced Bash Script Problems (20)
+
+Service health check: restart service if stopped.
+
+Check if a website is reachable; if not, log failure.
+
+Write a log rotation script (keep last 5 logs).
+
+Implement a retry mechanism for a command with exponential backoff.
+
+Create a menu-driven program with 5 options (date, uptime, disk usage, memory, exit).
+
+Script to monitor a directory and copy new files to backup location.
+
+Parse Apache/Nginx access logs and show top 5 IPs by requests.
+
+Parse Apache logs to detect failed login attempts.
+
+Write a script that monitors /var/log/syslog in real time and alerts on “ERROR”.
+
+Automate MySQL backup with timestamp and rotation.
+
+List all running Docker containers and images.
+
+Monitor Kubernetes pods in a namespace and alert if any pod is CrashLoopBackOff.
+
+Script to check SSL certificate expiry for a given domain.
+
+Script to fetch EC2 instance IDs and states using AWS CLI.
+
+Parallel execution of multiple commands and logging output separately.
+
+Write a script that checks open ports and alerts if port 22 is not open.
+
+Generate a CSV report of users from /etc/passwd (username, UID, home, shell).
+
+Script to read a CSV file and process each line.
+
+Build a simple key-value store using associative arrays.
+
+Implement a script that simulates a cron job scheduler (runs tasks at intervals).
